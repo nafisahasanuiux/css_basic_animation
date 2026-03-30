@@ -1,0 +1,9 @@
+.title {
+  animation: colorFade 2s infinite;
+}
+
+@keyframes colorFade {
+  0% { color: pink; }
+  50% { color: lightblue; }
+  100% { color: black; }
+}
